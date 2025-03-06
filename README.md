@@ -27,6 +27,7 @@ Descarga Manual (ZIP):
 
 # Uso y Pruebas
 Ejecutar pruebas desde IntelliJ:
+- Colocar nombre del empleado y usurio en las constantes NOMBRE_EMPLEADO, USUARIO en utils/constantes
 - Navega hasta la clase PrincipalRunner.
 - Haz clic derecho sobre la clase y selecciona Run 'PrincipalRunner'.
   
