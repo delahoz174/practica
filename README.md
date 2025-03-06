@@ -17,7 +17,7 @@ Para ejecutar el proyecto, debe de tener instalados los siguientes componentes:
 #  Instalación
 Clonar el repositorio con Git
 - Ejecutar el siguiente comando en la terminal:
-git clone https://github.com/delahoz174/practicaScreenplay_N2.git
+git clone https://github.com/delahoz174/practica.git
 
 Descarga Manual (ZIP):
 1. Ve a Repositorio en GitHub.
